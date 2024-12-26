@@ -1,0 +1,31 @@
+.H1{    
+    padding: 1em;
+    font-family: "Poppins", serif;
+    font-weight: 800;
+}
+
+.H2{
+    margin-left: 1em;
+    font-family: "Poppins", serif;
+    font-weight: bold;   
+    font-size: 18px;
+    text-align: left;
+    
+}
+
+.Encuadre{
+    border: 10px ridge#f00;
+    padding: 0.5em;
+    
+    
+}
+
+
+.Encuadre img{
+    width: 5%;
+}
+
+
+.division{
+    column-count: 2;
+}
